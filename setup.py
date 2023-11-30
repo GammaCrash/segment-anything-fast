@@ -8,7 +8,7 @@ setup(
     packages=packages,
     install_requires=[
         'torch>=2.1.0',
-        'torchvision>=0.17.0.dev20231026',
+        'torchvision>=0.16.0',
         'diskcache',
         'pycocotools',
         'scipy',
